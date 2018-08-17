@@ -33,7 +33,7 @@ From within the folder execute the following command:
 dotnet new camundaprocess
 ```
 
-my-process.csproj should now have been created, and the namespace should also reflect MyAPI in the source code files.
+my-process.csproj should now have been created, and the namespace should also reflect my_process in the source code files.
 
 ### Building Docker Images
 
@@ -48,7 +48,7 @@ After successfull build, the following should appear.
 ```
 Successfully built 0d5e7aa7cced
 Successfully tagged t2:latest
-Creating t2_api_1 ... done
+Creating my-process_api_1 ... done
 Attaching to t2_api_1
 api_1  |
 api_1  |  __      __.___  ________________     _____ .______________
@@ -58,7 +58,7 @@ api_1  |  \        /|   \    \_\  /    |    /    ^   |   | |    |
 api_1  |   \__/\  / |___|\______  \_______  \____   ||___| |____|
 api_1  |        \/              \/        \/     |__|
 api_1  |
-api_1  | t2 camunda processes
+api_1  | my-process camunda processes
 api_1  |
 api_1  | Deploying models and start External Task Workers.
 api_1  |
