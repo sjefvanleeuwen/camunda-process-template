@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Sjef van Leeuwen",
+    "classifications": [ "Console", "BPMN", "Camunda" ],
+    "identity": "CamundaProcess",
+    "name": "Camunda Console Process Template",
+    "shortName": "CamundaProcess",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "template-identifier",
+    "preferNameDirectory": true
+}

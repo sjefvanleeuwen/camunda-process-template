@@ -1,0 +1,1 @@
+place your camunda artefacts to be deployed in the resources folder
