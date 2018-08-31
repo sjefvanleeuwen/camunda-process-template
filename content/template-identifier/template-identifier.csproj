@@ -8,6 +8,6 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
-    <PackageReference Include="camundaclient" Version="0.0.2" />
+    <PackageReference Include="camundaclient" Version="0.0.3" />
   </ItemGroup>
 </Project>
