@@ -1,4 +1,5 @@
 # Camunda Process Template
+[![Build Status](https://travis-ci.org/sjefvanleeuwen/camunda-process-template.svg?branch=master)](https://travis-ci.org/sjefvanleeuwen/camunda-process-template)
 
 .NET Core console template that provides a harnas for deploying your BPMN flows as resources to Camunda and build external task workers.
 
