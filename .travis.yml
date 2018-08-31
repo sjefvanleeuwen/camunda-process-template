@@ -1,0 +1,8 @@
+language: csharp
+mono: none
+dotnet: 2.1.401
+dist: xenial
+notifications:
+  slack: wigo4it:GdebqlKcoyti7ff14Vnt1IHD
+script:
+  - dotnet build ./content/template-identifier/
